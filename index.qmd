@@ -1,0 +1,96 @@
+---
+title: 'Legal notice and accessibility'
+author: "David Kneis (firstname.lastname @ tu-dresden.de)"
+date: "`r Sys.Date()`"
+format:
+  html:
+    number-sections: true
+    toc: true
+    toc-depth: 3
+    toc-location: left
+    embed-resources: true
+---
+
+```{r echo=FALSE, eval=TRUE}
+options(width=120) # keep this to trigger proper date in header
+mainURL <- "https://enviresist.github.io"
+```
+
+# Purpose
+
+The contents provided on the sub-pages of `r mainURL`
+is meant to support research on antimicrobial resistance with a focus on
+environmental settings. The contents reflects work in progress and the
+information provided may not be sufficiently validated. Consequently, the
+information is not intended to be used for any serious purpose or
+application. In that regard, the liability disclaimer of TU Dresden, Germany (https://tu-dresden.de/impressum) applies.
+
+In case of doubt, please contact the maintainer of
+`r mainURL` (David Kneis, contact details below) or the involved
+researchers (contact details may be provided as per sub-directory).
+
+# Legal notice
+
+## Responsibility
+
+The sub-pages of `r mainURL` are
+managed and maintained by David Kneis. If you have any questions
+regarding contents or technical issues, please contact:
+
+| Dr. David Kneis
+| Institute of Hydrobiology
+| Technische Universität Dresden
+| 01062 Dresden
+| Germany
+| 
+| Email: firstname.lastname@tu-dresden.de
+|        (replace firstname by 'David' and lastname by 'Kneis')
+| Phone: +49 351 463 - 32 32 9
+
+Since the maintainer is affiliated with TU Dresden, the legal notice found at https://tu-dresden.de/impressum applies.
+
+## Data protection declaration
+
+The services provided on sub-pages of `r mainURL` are not
+intended to process personal data. In particular, within the responsibilities
+of the maintainer (David Kneis, contact details above), no tracking cookies
+are used to record or analyze user movement and behavior on the websites. 
+
+In accordance with German law (Art. 6 para. 1 letter f GDPR) you have
+the right to obtain information on the data processed concerning you
+and/or to request the correction of inaccurate data. You also have the
+right to erasure and restriction of processing as well as the right to
+object to the processing. In this regard, you can contact the maintainer
+(David Kneis, contact details above) at any time.
+
+# Accessibility
+
+This accessibility statement applies to the sub-pages of 
+`r mainURL`. These websites are managed and maintained by 
+David Kneis (contact details above). The maintainer is committed to
+making all contents accessible, in accordance with the respective
+German laws (BfWebG, BITV 2.0) implementing EU Directive 2016/2102.
+
+## Compliance status
+
+This statement was prepared and last reviewed on 2024-10-02 by David
+Kneis based on a self-assessment.
+
+The contents of the sub-pages of `r mainURL` is partially
+compliant with the indicated legal requirements.
+In particular, outcomes of ongoing research in the form
+of graphics and scientific documents are considered preliminary. Such
+preliminary items are not optimized for accessibility because of
+disproportionate effort. If you are interested in any content being
+currently inaccessible, please contact the maintainer, David Kneis 
+(contact details above) to find a solution that suits your particular needs.
+
+## Enforcement procedure
+If we do not process your feedback satisfactorily from your point of view, you can contact the Enforcement Body of the State of Saxony (Germany):
+
+| Office of the Commissioner of the Saxon State Government for the Affairs of Persons with Disabilities
+| Albertstraße 10, 01097 Dresden, Germany
+| Postal address: Archivstraße 1, 01097 Dresden, Germany
+| Email: info.<!-- @ -->behindertenbeauftragter@sk.<!-- @ -->sachsen.<!-- @ -->de
+| Phone: +49 351 564-12161
+| Web: https://www.inklusion.sachsen.de
